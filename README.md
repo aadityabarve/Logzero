@@ -1,1 +1,1 @@
-# Logzero
+Logzero is an web application for storing academic records like marks and attendance and generate appropriate reports from the stored data. For developing front end I have used HTML, CSS, Javascript and Bootstrap, whereas for developing back end I have used NodeJS, ExpressJS and MongoDB for storing data.
